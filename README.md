@@ -30,4 +30,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - ビルド  `ng serve --open`
 - 保存すると、自動的にリビルドされる
   ※リビルドがうまくいかない時は、Control + C -> ng serve
-- test
+- Github
+  - main  本番用
+  - dev   開発用
+- アプリ名は全て小文字
+- Bootstrap導入
+  - angular.jsonで”my-first-app/node_modules/bootstrap/dist/css/bootstrap.min.css”を読み込みように変更
