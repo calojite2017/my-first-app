@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - ビルド  `ng serve --open`
 - 保存すると、自動的にリビルドされる
   ※リビルドがうまくいかない時は、Control + C -> ng serve
+- test
